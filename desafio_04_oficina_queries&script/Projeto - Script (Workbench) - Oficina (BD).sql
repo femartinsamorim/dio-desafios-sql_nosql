@@ -1,0 +1,18 @@
+CREATE DATABASE Oficina;
+USE Oficina;
+
+-- TABELA CLIENTE
+CREATE TABLE Cliente (
+);
+
+-- TABELA MECANICOS
+CREATE TABLE Mecanico (
+);
+
+-- TABELA ORDEM DE SERVIÇO
+CREATE TABLE Ordem_Servico (
+);
+
+-- TABELA VEICULOS
+CREATE TABLE Veiculo (
+);
